@@ -1,0 +1,13 @@
+ID,Rating,Review Title,Review,Customer Name,Date,Review ID
+0,4,Works well,The product works fine,Philip,Ocotber 10 2023,#7653
+1,3,good enough,NaN,Olivia,Nan,Nan
+2,5,Everyone should buy this,You should buy this,Jhon,Jan 11 2023,Nan
+3,5,Amazing product ,The product never worked for me,Rahul,Dec 10 2022,Nan
+4,1,This is terrible ,Go and buy this right now.,Kartiki,Nan,#8563
+5,2,Doesn't work,The product works fine,Ayush,Dec 10 2022,Nan
+6,4,Cool product,NaN,Sid,Nan,#4162
+7,5,Best thing ever,You should buy this,Sidharth,Jan 11 2023,Nan
+8,5,Amazing product ,The product never worked for me,Rahul,Dec 10 2022,Nan
+9,5,Love this ,Go and buy this right now.,Ravi,Nan,#7689
+10,100,Hate this ,The product works fine,emma,Ocotber 10 2023,Nan
+11,3,OK product,NaN,Neha,Nan,#8962
